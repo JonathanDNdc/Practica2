@@ -21,3 +21,5 @@ Diseño de multiplicador usando multiplexores de 4 a 1.
 
 ## Simulación
 En la carpeta simulación se encuentra el Test Bench del multiplicador.
+Tambien se encuentra la traza de la ejecución y la simulación  de GtkWave.
+![GtkWave](https://raw.githubusercontent.com/JonathanDNdc/Practica2/master/Simulaci%C3%B3n/GtkWave.png)
